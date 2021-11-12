@@ -1,5 +1,4 @@
 #recommendations, which user likse the most artist, save and quit, extra credit 3
-# Ioannis Skoulidas
 
 data = {"John": ["Jej", "Ses", "Kek"], "Ioannis":["Sej"], "Jayson":["squink", "squonk"]}
 
